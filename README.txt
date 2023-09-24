@@ -1,0 +1,1 @@
+Dentro de la carpeta notebooks está mi primer código de la materia, tiene un error porque el promedio dá un número mcuho más alto del que debería, pero no he sido capaz de encontrar el error
